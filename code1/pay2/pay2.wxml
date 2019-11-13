@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<!--pages/paySuccessTrans/paySuccessTrans.wxml-->
+<view class="top">
+
+    <view class="wrap">
+
+      <image src="/image/success.jpg" class="img"></image>
+
+      <text class="word">支付成功</text>
+
+    </view>
+
+</view>
+
+<view class="btn-group">
+
+  <button type="primary" style="background-color:#12e752;color:#656565"  class="see">查看订单</button>
+
+</view>
